@@ -27,7 +27,7 @@ SECRET_KEY = 'ix(*xql3y-(kh4t=84h^(pntr@t&$kh1jpt+3_pb^*5kq5kmg='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["localhost", "pablos-django-todo.herokuapp.com"]
 
 
 
