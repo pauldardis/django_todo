@@ -1,4 +1,5 @@
 import os
-#os.environ["SECRET_KEY"] = "cl#1e*(=ye-4u(biwcd5v+g(gyqu=q$a8wpo)6(h4(peut7the"
+#os.environ["SECRET_KEY"] = "w$e#e0b0*u$g6m7aeorjhjxei%**gtb=4sz2sdvn_l%)u8fbhd"
+SECRET_KEY = "w$e#e0b0*u$g6m7aeorjhjxei%**gtb=4sz2sdvn_l%)u8fbhd"
 DEVELOPMENT=1
-
+os.environ["SECRET_KEY"] = "w$e#e0b0*u$g6m7aeorjhjxei%**gtb=4sz2sdvn_l%)u8fbhd"
