@@ -35,7 +35,8 @@ SECRET_KEY = 'ix(*xql3y-(kh4t=84h^(pntr@t&$kh1jpt+3_pb^*5kq5kmg='
 DEBUG = development
 
 ALLOWED_HOSTS = [os.environ.get('C9_HOSTNAME'),
-                 os.environ.get('HOSTNAME')]
+                 os.environ.get('HOSTNAME'),
+                 "8080-dd20232d-ead3-403a-abc5-64f27b2eae04.ws-eu01.gitpod.io"]
 
 
 
